@@ -3,6 +3,8 @@
 This is a Java implementation of Convway's Game of Life , using a quadtree instead of the brute-force approach (a 2d array).
 It comes with a tiny Swing GUI that allows you to use the mouse to 'draw' cells. Press the 'Help' button to get a list of keyboard shortcuts.
 
+![Screenshot](/screenshot.png?raw=true "")
+
 # Requirements
 
 * JDK 1.8
